@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BufFileManager">
+    <modules>
+      <module>
+        <name>buf.build/marfranco/ms</name>
+        <path>$PROJECT_DIR$/proto</path>
+        <yaml>$PROJECT_DIR$/proto/buf.yaml</yaml>
+      </module>
+    </modules>
+  </component>
+</project>
